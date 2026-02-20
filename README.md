@@ -4,11 +4,11 @@ This repository is the official implementation of "*DEMA: Data-Enhanced Model Ag
 
 **File Structure:**
 
-- **main_function**
+- **`main_function`**
   - method_function.r: main code for DEMA algorithm (Algotithm2 in paper);
   - Q.agg.r: main code for greedy algorithm (Algotithm1 in paper).
 
-- **sim_codes**  
+- **`sim_codes`**  
   - Table1_design1_and_Fig3.r: results of Table1 (Design 1) and Figure 3;
   - Table1_design2.r: results of Table1 (Design 2);
   - Table2_design1.r: results of Table2 (Design 1);
@@ -17,3 +17,9 @@ This repository is the official implementation of "*DEMA: Data-Enhanced Model Ag
   - Table3_LUSC.r: results of Table 3 (LUSC);
   - Table4.r: results of Table 4;
   - Fig2.r: results of Figure 2.
+
+## Maintainer
+
+Xiaonan Hu (<xnhu@amss.ac.cn>)
+
+Any questions or comments, please don’t hesitate to contact with me any time.
