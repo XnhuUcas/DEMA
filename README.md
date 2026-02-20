@@ -20,6 +20,6 @@ This repository is the official implementation of "*DEMA: Data-Enhanced Model Ag
 
 ## Maintainer
 
-Xiaonan Hu (<xnhu@amss.ac.cn>)
+Menghao Wang (<wangmenghao24@mails.ucas.ac.cn>) and Xiaonan Hu (<xnhu@amss.ac.cn>,<xiaonanhu@cnu.edu.cn>)
 
-Any questions or comments, please don’t hesitate to contact with me any time.
+Any questions or comments, please don’t hesitate to contact with us any time.
